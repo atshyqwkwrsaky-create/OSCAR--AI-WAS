@@ -56,8 +56,8 @@ module.exports.HakimRun = async function({ api, event}) {
     const rawGender = info[targetID]?.gender;
     const altGender = info[targetID]?.gender?.toLowerCase?.();
     const gender =
-      rawGender === 1 || altGender === "male"? "مزة":
-      rawGender === 2 || altGender === "female"? "مز":
+      rawGender === 2 || altGender === "male"? "مزة":
+      rawGender === 1 || altGender === "female"? "مز":
       "❓ غير محدد";
 
     const msgCount =
