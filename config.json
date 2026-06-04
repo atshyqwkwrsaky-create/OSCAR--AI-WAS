@@ -1,15 +1,46 @@
 {
-  "PREFIX": "",
-  "ADMINBOT": ["100003922506337"], 
-  "BOTNAME": "Mirror Bot",
-  "GEMINI_KEY": "your_apikey", 
-  "fcaOptions": {
-    "online": true, 
-    "autoReconnec": true, 
+  "BOTNAME": "OSCAR",
+  "ADMIN_NAME": "داروين",
+  "FACEBOOK_ADMIN": "61563738496733",
+  "PREFIX": "-",
+  "ADMINBOT": [
+    "61563738496733"
+  ],
+  "language": "ar",
+  "allowInbox": true,
+  "autoMarkRead": true,
+  "autoMarkDelivery": true,
+  "APPSTATEPATH": "./appstate.json",
+  "DATABASE_PATH": "./Fca_Database/database.sqlite",
+  "DATABASE": {
+    "sqlite": {
+      "storage": "../Fca_Database/database.sqlite"
+    }
+  },
+  "GROUP_DATA_PATH": "./groupData.json",
+  "FCAOption": {
     "forceLogin": true,
     "listenEvents": true,
-    "logLevel": "error",
+    "logLevel": "warn",
     "selfListen": false,
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1"
-  }
-} 
+    "autoMarkRead": true,
+    "autoMarkDelivery": true,
+    "autoReconnect": true,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  "fcaOptions": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "logLevel": "warn",
+    "selfListen": false,
+    "autoMarkRead": true,
+    "autoMarkDelivery": true,
+    "autoReconnect": true,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  "daily": {
+    "cooldownTime": 86400000,
+    "rewardCoin": 1000
+  },
+  "version": "2.0.0"
+}
