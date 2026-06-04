@@ -1,14 +1,14 @@
-# Mirror Bot 
+# OSCAR AI BOT Bot 
 # Developed By Hakim Tracks 
-![Mirror Bot Agent](https://i.imgur.com/aAO58sQ.jpeg)
+![OSCAR Bot Agent]https:(//github.com/atshyqwkwrsaky-create/OSCAR-AI-BOT.git) 
 
 ## معلومات البوت
-- **اسم البوت:** Mirror Bot
+- **اسم البوت:** OSCAR Bot
 - **الوظيفة:** بوت ماسنجر
 
 ## معلومات المطور
-- **صلاح الدين (Hakim Tracks)**
-  - [حساب فيسبوك](fb.com/Hakim.Tracks.Ch)
+- ** محمد دني (mhammd dni)**
+  - [حساب فيسبوك](https://www.facebook.com/profile.php?id)
 
 ## مشاريع أخرى
 - Rock Bot
@@ -21,11 +21,4 @@
 
 | Facebook | 
 | :---: | 
-| <a href="https://www.facebook.com/Hakim.Tracks.Ch"><img src="https://i.postimg.cc/fyLsTW4T/qr-code-(2).png" /></a>
-
-
-## شرح تشغيل البوت
-- [اضغط هنا](https://drive.google.com/file/d/1n1ThWotSzENsJ3y3mlLXsCtK27txkqFL/view?usp=sharing)  
-
-## الروابط 
-- [اضغط هنا](https://www.mediafire.com/file/gqhdinixjl6q6hl/Links.txt/file) 
+| <a href=""><https://www.facebook.com/profile.php?id=61563738496733
